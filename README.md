@@ -15,12 +15,19 @@ Allocation for various Marketing campaigns.
 This dataset represents a sample of 30 days of Criteo live traffic data. Each line corresponds to one impression (a banner) that was displayed to a user. For each banner we have detailed information about the context, if it was clicked, if it led to a conversion and if it led to a conversion that was attributed to Criteo or not.
 
 Timestamp: timestamp of the impression
+
 UID: unique user identifier
+
 Campaign: unique campaign identifier
+
 Conversion: 1 if there was a conversion in the 30 days after the impression; 0 otherwise
+
 Conversion ID: a unique identifier for each conversion
+
 Click: 1 if the impression was clicked; 0 otherwise
+
 Cost: the price paid for this ad
+
 Cat1-Cat9: categorical features associated with the ad. These features' semantic meaning is not disclosed.
 
 ## Attribution Modeling 
