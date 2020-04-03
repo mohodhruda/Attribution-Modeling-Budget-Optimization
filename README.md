@@ -66,7 +66,7 @@ Types of Marketing Models we will be implementing-
 We have implemented 10 models to compare and see which works best for us and validate our claim using Simulation algorithm
 to optimize the Budget Allocation using the history data to calculate Return on Investment. 
 
-### Dashbaord -
+### Dashboard -
 
 We also create a Dashbaord using Panel to summarize our insights and model outcomes. 
 
